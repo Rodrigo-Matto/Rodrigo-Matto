@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=36BCF7FF&background=FF000000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Rodrigo!+👋;¡Hola,+soy+Rodrigo!+👋;Ciao,+sono+Rodrigo!+👋;Olá,+eu+sou+Rodrigo!+👋;こんにちは、ロドリゴです！+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=36BCF7FF&background=FF000000&center=true&vCenter=true&width=550&lines=Hi,+I'm+Rodrigo!+👋;¡Hola,+soy+Rodrigo!+👋;Ciao,+sono+Rodrigo!+👋;Olá,+eu+sou+Rodrigo!+👋)](https://git.io/typing-svg)
 
 **DevOps Engineer | Cloud Architect | Infrastructure Automation**
 
