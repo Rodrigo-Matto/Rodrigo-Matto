@@ -25,7 +25,7 @@
 <img src="https://images.credly.com/images/1dd8824f-d6b6-4967-906a-7bd3c0063fae/image.png" alt="Red Hat Certified Specialist in Containers and Kubernetes" width="87" height="87"/>
 </a>
 <a href="https://www.credly.com/badges/4bb370dc-3674-4e46-96c2-48cf6f39077b" target="_blank">
-<img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer (RHCE)" width="95" height="95"/>
+<img src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png" alt="Red Hat Certified Engineer (RHCE)" width="97" height="97"/>
 </a>
 </div>
 
